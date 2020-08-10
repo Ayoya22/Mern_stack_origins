@@ -1,8 +1,9 @@
 {
   "name": "initial-d",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hospital Information Center",
   "main": "template.js",
+  "type": "module",
   "dependencies": {
     "express": "^4.16.3",
     "mongodb": "^3.0.7",
